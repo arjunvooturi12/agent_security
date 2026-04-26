@@ -1,0 +1,386 @@
+{
+  "winning_rate_trajectory": [
+    [
+      1,
+      0.5
+    ],
+    [
+      2,
+      0.5
+    ],
+    [
+      3,
+      0.5
+    ],
+    [
+      4,
+      0.5
+    ],
+    [
+      5,
+      0.5
+    ],
+    [
+      6,
+      0.5
+    ],
+    [
+      7,
+      0.5
+    ],
+    [
+      8,
+      0.5
+    ],
+    [
+      9,
+      0.5
+    ],
+    [
+      10,
+      0.5
+    ],
+    [
+      11,
+      0.5
+    ],
+    [
+      12,
+      0.5
+    ],
+    [
+      13,
+      0.5
+    ],
+    [
+      14,
+      0.5
+    ],
+    [
+      15,
+      0.4
+    ],
+    [
+      16,
+      0.6666666666666666
+    ],
+    [
+      17,
+      0.6666666666666666
+    ],
+    [
+      18,
+      0.45
+    ]
+  ],
+  "situation_timeline": [
+    [
+      1,
+      "early_game_balanced"
+    ],
+    [
+      2,
+      "early_game_balanced"
+    ],
+    [
+      3,
+      "balanced"
+    ],
+    [
+      4,
+      "balanced"
+    ],
+    [
+      5,
+      "balanced"
+    ],
+    [
+      6,
+      "balanced"
+    ],
+    [
+      7,
+      "balanced"
+    ],
+    [
+      8,
+      "balanced"
+    ],
+    [
+      9,
+      "balanced"
+    ],
+    [
+      10,
+      "balanced"
+    ],
+    [
+      11,
+      "balanced"
+    ],
+    [
+      12,
+      "balanced"
+    ],
+    [
+      13,
+      "balanced"
+    ],
+    [
+      14,
+      "balanced"
+    ],
+    [
+      15,
+      "standard"
+    ],
+    [
+      16,
+      "critical_red"
+    ],
+    [
+      17,
+      "critical_red"
+    ],
+    [
+      18,
+      "end_game_balanced_critical_blue_critical_red"
+    ]
+  ],
+  "detailed_steps": [
+    {
+      "timestep": 1,
+      "winning_rate": 0.5,
+      "situation_tag": "early_game_balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 0,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 2,
+      "winning_rate": 0.5,
+      "situation_tag": "early_game_balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 3,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 3,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 6,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 4,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 9,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 5,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 12,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 6,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 15,
+      "total_violations": 0,
+      "score": 0,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 7,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 18,
+      "total_violations": 0,
+      "score": 1,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 8,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 21,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 9,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 24,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 10,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 27,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 11,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 30,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 12,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 32,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 13,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 34,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 14,
+      "winning_rate": 0.5,
+      "situation_tag": "balanced",
+      "strategy_suggested": "manual",
+      "total_compliance": 37,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 3,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 15,
+      "winning_rate": 0.4,
+      "situation_tag": "standard",
+      "strategy_suggested": "manual",
+      "total_compliance": 39,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 2,
+      "red_alive": 3,
+      "contested_regions": [],
+      "threat_level": 2.0
+    },
+    {
+      "timestep": 16,
+      "winning_rate": 0.667,
+      "situation_tag": "critical_red",
+      "strategy_suggested": "manual",
+      "total_compliance": 41,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 2,
+      "red_alive": 1,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 17,
+      "winning_rate": 0.667,
+      "situation_tag": "critical_red",
+      "strategy_suggested": "manual",
+      "total_compliance": 41,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 2,
+      "red_alive": 1,
+      "contested_regions": [],
+      "threat_level": 1.0
+    },
+    {
+      "timestep": 18,
+      "winning_rate": 0.45,
+      "situation_tag": "end_game_balanced_critical_blue_critical_red",
+      "strategy_suggested": "manual",
+      "total_compliance": 41,
+      "total_violations": 0,
+      "score": 2,
+      "blue_alive": 1,
+      "red_alive": 1,
+      "contested_regions": [],
+      "threat_level": 2.0
+    }
+  ]
+}
